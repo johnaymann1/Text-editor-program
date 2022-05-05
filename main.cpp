@@ -165,7 +165,7 @@ void hide_pass(char password[100])
         if (c ==127 || c==8)
         {
            
-      //WE WANT TO REMOVE THE LAST ENTERED CHARACTER IN THE ARRAY "password[v]"
+      password[v-1]=0;
         
         }
         
