@@ -1,4 +1,1 @@
-# Assigment-4
-
-'main.cpp' is the login program 
-'texxteditor.cpp' is the text edit program
+This C++ code implements a text file manipulation program with a menu-driven interface. It includes options for adding, viewing, clearing, encrypting, decrypting, merging files, counting words, letters, lines, finding words, counting repeated words, converting text cases, and saving files.
